@@ -71,7 +71,8 @@ Open circuit characteristics
 Load Characteristics:
 ![WhatsApp Image 2025-12-10 at 13 27 43_95c188d4](https://github.com/user-attachments/assets/7d910d67-c24f-4a48-85bd-1d9a714bc036)
 <img width="980" height="720" alt="Screenshot 2025-12-10 131635" src="https://github.com/user-attachments/assets/24d43c24-5f7b-4d51-8266-c46fdcd279f4" />
-<img width="980" height="720" alt="Screenshot 2025-12-10 131635" src="https://github.com/user-attachments/assets/205bbac1-4071-4a02-b2c1-a9ad773b0466" />
+![WhatsApp Image 2025-12-10 at 13 27 38_a241c44b](https://github.com/user-attachments/assets/70571236-815b-4495-b2b3-0f7e11d34332)
+
 
  
 Result:
